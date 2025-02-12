@@ -41,8 +41,6 @@ FDMA visualize
 
 保存和可视化的信息示例：
 ```
-# 版本描述
-
 Name: test.so
 md5: 0qaea24q3q2axxx
 Deps: dummyLib1.so, dummyLib2.so

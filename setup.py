@@ -32,7 +32,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'FDMA=fdma.cli:main',
+            'FDMA=fdma.main:main',
         ],
     },
     classifiers=[
